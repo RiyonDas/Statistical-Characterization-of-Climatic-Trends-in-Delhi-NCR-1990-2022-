@@ -14,7 +14,12 @@ A research study based on quantitative techniques to assess the long-term climat
 4. Linear Regression
 
 ## Python packages/libraries used:
-Scikit-Learn, SciPy, Pandas, NumPy, Matplotlib, Seaborn
+1. Scikit-Learn
+2. SciPy
+3. Pandas
+4. NumPy
+5. Matplotlib
+6. Seaborn
 
 ## Accessibility to the Research Paper:
 https://doi.org/10.9734/ajarr/2026/v20i31311
