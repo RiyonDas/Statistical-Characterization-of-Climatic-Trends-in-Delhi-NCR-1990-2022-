@@ -17,4 +17,4 @@ A research study based on quantitative techniques to assess the long-term climat
 Scikit-Learn, SciPy, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Accessibility to the Research Paper:
-IT'S IN THE REVIEW PROCESS. Once published, the link will be available.
+https://doi.org/10.9734/ajarr/2026/v20i31311
